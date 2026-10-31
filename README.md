@@ -1,13 +1,13 @@
 # Arbeitszeit
 
-Öffentlicher Bereich der macOS-App **Arbeitszeit**. Der Quellcode liegt nicht hier.
+Public space for the macOS app **Arbeitszeit** (working-time tracker). The source code is not hosted here.
 
-## Feedback & Bugs
+## Feedback & bugs
 
-Fehler und Ideen bitte als [Issue](../../issues) melden – am einfachsten direkt aus der App über **Feedback & Bugs**. Issues sind öffentlich: bitte keine Zugangsdaten, Namen, Kunden- oder Firmendaten hineinschreiben.
+Please report bugs and ideas as an [issue](../../issues) – the easiest way is right from the app via **Feedback & Bugs**. Issues are public: please don't include credentials, names, customer or company data.
 
 ## Releases
 
-Unter [Releases](../../releases) liegt die fertige App als ZIP. Die App findet neue Versionen selbst und zeigt oben rechts auf der Heute-Seite einen Hinweis; ein Klick installiert das Update und startet die App neu.
+[Releases](../../releases) contain the finished app as a ZIP. The app finds new versions on its own and shows a hint at the top right of the Today page; one click installs the update and restarts the app.
 
-Jedes Release ist signiert und wird vor der Veröffentlichung auf Sicherheitsprobleme geprüft.
+Every release is signed and checked for security issues before it is published.
