@@ -8,6 +8,6 @@ Please report bugs and ideas as an [issue](../../issues) – the easiest way is 
 
 ## Releases
 
-[Releases](../../releases) contain the finished app as a ZIP. The app finds new versions on its own and shows a hint at the top right of the Today page; one click installs the update and restarts the app.
+[Releases](../../releases) contain the finished app as a ZIP. The app finds new versions on its own and shows an update button at the far right of the window toolbar; one click installs the update and restarts the app.
 
 Every release is signed and checked for security issues before it is published.
