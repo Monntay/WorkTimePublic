@@ -10,6 +10,7 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 
 ### What it does
 
+- **Your own Today page** – move cards, resize them from any edge or hide them, and add headings, text and lines as building blocks.
 - **Automatic tracking** – start, end and location come from your Wi-Fi or LAN connection while you are active on your Mac. Manual changes always win.
 - **Start, break, stop** – or simply switch to your own hours for a day. Both values stay saved, so you can switch back at any time.
 - **Calendar** – every day at a glance: home office, office, business trip, vacation, sick days and public holidays. Click a day to edit it.
@@ -145,6 +146,7 @@ The source code is not hosted here.
 
 ### Was sie kann
 
+- **Deine eigene Heute-Seite** – Karten verschieben, an allen Kanten in der Größe ändern oder ausblenden, dazu Überschriften, Texte und Linien als Bausteine.
 - **Automatische Erfassung** – Beginn, Ende und Ort kommen aus deiner WLAN- oder LAN-Verbindung, solange du am Mac aktiv bist. Manuelle Änderungen haben immer Vorrang.
 - **Start, Pause, Stop** – oder für einen Tag einfach auf eigene Stunden umschalten. Beide Werte bleiben gespeichert, du kannst jederzeit zurück.
 - **Kalender** – jeder Tag auf einen Blick: Homeoffice, Büro, Dienstreise, Urlaub, Krankheit und Feiertage. Ein Klick auf den Tag öffnet die Bearbeitung.
