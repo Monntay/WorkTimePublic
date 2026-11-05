@@ -21,7 +21,7 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Menu bar** – status and controls are always one click away.
 - **AI tools (MCP)** – optionally let an AI tool on your Mac, such as Claude or Cursor, operate the app: say "I started at 3 today", "my break was only 30 minutes" or "enter vacation from Monday to Friday", or ask how many office days you still need. Off by default.
 - **Five designs** – iOS 26, Material 3, Comic, Retro Future and ERP Classic, which uses only gray and blue and has no rounded corners.
-- **Searchable settings** – type a word and only the matching settings remain.
+- **Searchable settings** – type a word and only the matching settings remain, with the matches highlighted.
 - **Your data stays on your Mac** – there is no account and no cloud. Location Services are only needed because macOS reveals the Wi-Fi name that way; no location data is stored. If you connect an AI tool, what it reads may go to its provider, depending on the tool. It gets your work times and notes, but no Wi-Fi names, tokens or tickets.
 
 The app is available in English and German and follows your macOS language.
@@ -163,7 +163,7 @@ The source code is not hosted here.
 - **Menüleiste** – Status und Steuerung sind immer einen Klick entfernt.
 - **KI-Tools (MCP)** – auf Wunsch bedient ein KI-Tool auf deinem Mac, zum Beispiel Claude oder Cursor, die App: Sag „Ich habe heute um 3 angefangen“, „Meine Pause war nur 30 Minuten“ oder „Trag mir von Montag bis Freitag Urlaub ein“, oder frag, wie viele Bürotage dir noch fehlen. Standardmäßig aus.
 - **Fünf Designs** – iOS 26, Material 3, Comic, Retro-Zukunft und ERP-Klassik, das nur Grau und Blau kennt und keine Rundungen hat.
-- **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen.
+- **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen, die Treffer sind markiert.
 - **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Die Ortungsdienste braucht die App nur, weil macOS den WLAN-Namen so herausgibt; Standortdaten werden nicht gespeichert. Wenn du ein KI-Tool verbindest, kann das, was es liest, je nach Tool an dessen Anbieter gehen. Es bekommt deine Arbeitszeiten und Notizen, aber keine WLAN-Namen, Tokens oder Tickets.
 
 Die App gibt es auf Deutsch und Englisch, sie folgt der Sprache von macOS.
