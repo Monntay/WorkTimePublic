@@ -19,8 +19,9 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Packages** – assign your time to projects and booking numbers, with one click from the Today page. Azure DevOps tickets can be linked (read-only).
 - **Reminders** – a notification when your daily target is reached, and a prompt to end a break.
 - **Menu bar** – status and controls are always one click away.
+- **AI tools (MCP)** – optionally let an AI tool on your Mac, such as Claude or Cursor, operate the app: say "I started at 3 today", "my break was only 30 minutes" or "enter vacation from Monday to Friday", or ask how many office days you still need. Off by default.
 - **Five designs** – iOS 26, Material 3, Comic, Retro Future and ERP Classic.
-- **Your data stays on your Mac** – there is no account and no cloud. Location Services are only needed because macOS reveals the Wi-Fi name that way; no location data is stored.
+- **Your data stays on your Mac** – there is no account and no cloud. Location Services are only needed because macOS reveals the Wi-Fi name that way; no location data is stored. If you connect an AI tool, what it reads may go to its provider, depending on the tool. It gets your work times and notes, but no Wi-Fi names, tokens or tickets.
 
 The app is available in English and German and follows your macOS language.
 
@@ -134,6 +135,10 @@ Requires macOS 26. Download the ZIP from the [latest release](../../releases/lat
 
 New versions appear as an update button at the far right of the window toolbar; one click installs the update and restarts the app. Every release is signed and checked for security issues before it is published.
 
+### Connect an AI tool
+
+Switch on **AI tools (MCP)** in the app's settings. The app then shows the command for Claude Code and the configuration for Claude Desktop, Cursor and other MCP clients, ready to copy. The connection is local: it opens no network port and only works for your macOS user.
+
 ### Feedback & bugs
 
 Please report bugs and ideas as an [issue](../../issues) – the easiest way is right from the app via **Feedback & Bugs**. Issues are public: please don't include credentials, names, customer or company data.
@@ -155,8 +160,9 @@ The source code is not hosted here.
 - **Pakete** – ordne deine Zeit Projekten und Buchungsnummern zu, mit einem Klick direkt auf der Heute-Seite. Azure-DevOps-Tickets lassen sich verknüpfen (nur lesend).
 - **Erinnerungen** – eine Mitteilung, wenn das Tagessoll geschafft ist, und eine Nachfrage, wenn die Pause zu Ende sein könnte.
 - **Menüleiste** – Status und Steuerung sind immer einen Klick entfernt.
+- **KI-Tools (MCP)** – auf Wunsch bedient ein KI-Tool auf deinem Mac, zum Beispiel Claude oder Cursor, die App: Sag „Ich habe heute um 3 angefangen“, „Meine Pause war nur 30 Minuten“ oder „Trag mir von Montag bis Freitag Urlaub ein“, oder frag, wie viele Bürotage dir noch fehlen. Standardmäßig aus.
 - **Fünf Designs** – iOS 26, Material 3, Comic, Retro-Zukunft und ERP-Klassik.
-- **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Die Ortungsdienste braucht die App nur, weil macOS den WLAN-Namen so herausgibt; Standortdaten werden nicht gespeichert.
+- **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Die Ortungsdienste braucht die App nur, weil macOS den WLAN-Namen so herausgibt; Standortdaten werden nicht gespeichert. Wenn du ein KI-Tool verbindest, kann das, was es liest, je nach Tool an dessen Anbieter gehen. Es bekommt deine Arbeitszeiten und Notizen, aber keine WLAN-Namen, Tokens oder Tickets.
 
 Die App gibt es auf Deutsch und Englisch, sie folgt der Sprache von macOS.
 
@@ -269,6 +275,10 @@ Alle Daten auf den Bildern sind erfunden.
 Voraussetzung ist macOS 26. Lade das ZIP aus dem [neuesten Release](../../releases/latest), entpacke es und schiebe die App in den Programme-Ordner. Blockiert macOS den ersten Start, erlaube ihn unter Systemeinstellungen → Datenschutz & Sicherheit.
 
 Neue Versionen erscheinen als Update-Knopf ganz rechts in der Fensterleiste; ein Klick installiert das Update und startet die App neu. Jedes Release ist signiert und wird vor der Veröffentlichung auf Sicherheitsprobleme geprüft.
+
+### KI-Tool verbinden
+
+Schalte in den Einstellungen der App **KI-Tools (MCP)** ein. Die App zeigt dann den Befehl für Claude Code und die Konfiguration für Claude Desktop, Cursor und andere MCP-Clients zum Kopieren an. Die Verbindung ist lokal: Sie öffnet keinen Netzwerkport und funktioniert nur für deinen macOS-Benutzer.
 
 ### Feedback & Bugs
 
