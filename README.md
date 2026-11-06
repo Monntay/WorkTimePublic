@@ -134,7 +134,7 @@ All data in these pictures is made up.
 
 Requires macOS 26. Download the ZIP from the [latest release](../../releases/latest), unzip it and move the app to your Applications folder. If macOS blocks the first start, allow it under System Settings → Privacy & Security.
 
-New versions appear as an update button at the far right of the window toolbar; one click installs the update and restarts the app. Every release is signed and checked for security issues before it is published.
+New versions appear as an update button at the far right of the window toolbar; one click installs the latest version directly and restarts the app, even if several updates were released in the meantime. Every release is signed and checked for security issues before it is published.
 
 ### Connect an AI tool
 
@@ -276,7 +276,7 @@ Alle Daten auf den Bildern sind erfunden.
 
 Voraussetzung ist macOS 26. Lade das ZIP aus dem [neuesten Release](../../releases/latest), entpacke es und schiebe die App in den Programme-Ordner. Blockiert macOS den ersten Start, erlaube ihn unter Systemeinstellungen → Datenschutz & Sicherheit.
 
-Neue Versionen erscheinen als Update-Knopf ganz rechts in der Fensterleiste; ein Klick installiert das Update und startet die App neu. Jedes Release ist signiert und wird vor der Veröffentlichung auf Sicherheitsprobleme geprüft.
+Neue Versionen erscheinen als Update-Knopf ganz rechts in der Fensterleiste; ein Klick installiert direkt die neueste Version und startet die App neu, auch wenn inzwischen mehrere Updates erschienen sind. Jedes Release ist signiert und wird vor der Veröffentlichung auf Sicherheitsprobleme geprüft.
 
 ### KI-Tool verbinden
 
