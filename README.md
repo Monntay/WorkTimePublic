@@ -25,7 +25,7 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Searchable settings** – type a word and only the matching settings remain, with the matches highlighted.
 - **Your data stays on your Mac** – there is no account and no cloud. Location Services are only needed because macOS reveals the Wi-Fi name that way; no location data is stored. If you connect an AI tool, what it reads may go to its provider, depending on the tool. It gets your work times and notes, but no Wi-Fi names, tokens or tickets.
 
-The app is available in English and German and follows your macOS language.
+The app is available in English and German. It follows your macOS language, or you choose the language in the settings.
 
 ### Screenshots
 
@@ -181,7 +181,7 @@ The source code is not hosted here.
 - **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen, die Treffer sind markiert.
 - **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Die Ortungsdienste braucht die App nur, weil macOS den WLAN-Namen so herausgibt; Standortdaten werden nicht gespeichert. Wenn du ein KI-Tool verbindest, kann das, was es liest, je nach Tool an dessen Anbieter gehen. Es bekommt deine Arbeitszeiten und Notizen, aber keine WLAN-Namen, Tokens oder Tickets.
 
-Die App gibt es auf Deutsch und Englisch, sie folgt der Sprache von macOS.
+Die App gibt es auf Deutsch und Englisch. Sie folgt der Sprache von macOS, oder du wählst die Sprache in den Einstellungen.
 
 ### Screenshots
 
