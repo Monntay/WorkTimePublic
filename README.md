@@ -19,6 +19,7 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Packages** – assign your time to projects and booking numbers, with one click from the Today page. A package still active at the end of the day can continue on the next working day. Azure DevOps tickets can be linked (read-only).
 - **Reminders** – a notification when your daily target is reached, and a prompt to end a break.
 - **Menu bar** – status and controls are always one click away.
+- **Desktop widget** – a small avatar shows your running working time, with its own figure for each design: a flower in Comic, a rocket in Retro Future. Hover over it to pause, resume or start a package, double-click to open the app. It stays in the foreground or sits behind all windows, as you like.
 - **AI tools (MCP)** – optionally let an AI tool on your Mac, such as Claude or Cursor, operate the app: say "I started at 3 today", "my break was only 30 minutes" or "enter vacation from Monday to Friday", or ask how many office days you still need. Off by default.
 - **Five designs, plus your own** – iOS 26, Material 3, Comic, Retro Future and ERP Classic, which uses only gray and blue and has no rounded corners. An AI tool can also create custom designs with your colors, font and rounded corners, and add your own background, logo, card pictures, Dock icon and icons; they then appear in the settings.
 - **Searchable settings** – type a word and only the matching settings remain, with the matches highlighted.
@@ -130,6 +131,19 @@ All data in these pictures is made up.
 
 </details>
 
+<details open>
+<summary><b>Desktop widget</b></summary>
+
+<img src="shots/en-material3-6-widget.png" alt="Material 3 – collapsed" width="150"> <img src="shots/en-material3-7-widget-open.png" alt="Material 3 – on hover" width="260">
+
+<img src="shots/en-comic-6-widget.png" alt="Comic – collapsed" width="150"> <img src="shots/en-comic-7-widget-open.png" alt="Comic – on hover" width="260">
+
+<img src="shots/en-space-6-widget.png" alt="Retro Future – collapsed" width="150"> <img src="shots/en-space-7-widget-open.png" alt="Retro Future – on hover" width="260">
+
+<img src="shots/en-erp-6-widget.png" alt="ERP Classic – collapsed" width="150"> <img src="shots/en-erp-7-widget-open.png" alt="ERP Classic – on hover" width="260">
+
+</details>
+
 ### Install
 
 Requires macOS 26. Download the ZIP from the [latest release](../../releases/latest), unzip it and move the app to your Applications folder. If macOS blocks the first start, allow it under System Settings → Privacy & Security.
@@ -161,6 +175,7 @@ The source code is not hosted here.
 - **Pakete** – ordne deine Zeit Projekten und Buchungsnummern zu, mit einem Klick direkt auf der Heute-Seite. Ein Paket, das bei Feierabend noch aktiv ist, läuft auf Wunsch am nächsten Arbeitstag weiter. Azure-DevOps-Tickets lassen sich verknüpfen (nur lesend).
 - **Erinnerungen** – eine Mitteilung, wenn das Tagessoll geschafft ist, und eine Nachfrage, wenn die Pause zu Ende sein könnte.
 - **Menüleiste** – Status und Steuerung sind immer einen Klick entfernt.
+- **Desktop-Widget** – ein kleiner Avatar zeigt die laufende Arbeitszeit, je Design eine eigene Figur: im Comic eine Blume, in Retro-Zukunft eine Rakete. Maus darüber zeigt Pause, Fortsetzen und deine Pakete zum Starten, Doppelklick öffnet die App. Es bleibt auf Wunsch im Vordergrund oder liegt hinter allen Fenstern.
 - **KI-Tools (MCP)** – auf Wunsch bedient ein KI-Tool auf deinem Mac, zum Beispiel Claude oder Cursor, die App: Sag „Ich habe heute um 3 angefangen“, „Meine Pause war nur 30 Minuten“ oder „Trag mir von Montag bis Freitag Urlaub ein“, oder frag, wie viele Bürotage dir noch fehlen. Standardmäßig aus.
 - **Fünf Designs und eigene** – iOS 26, Material 3, Comic, Retro-Zukunft und ERP-Klassik, das nur Grau und Blau kennt und keine Rundungen hat. Ein KI-Tool kann außerdem eigene Designs mit deinen Farben, deiner Schrift und deinen Rundungen anlegen und ihnen eigene Hintergründe, ein Logo, Kartenbilder, ein Dock-Symbol und Icons geben; sie stehen dann in den Einstellungen.
 - **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen, die Treffer sind markiert.
@@ -269,6 +284,19 @@ Alle Daten auf den Bildern sind erfunden.
 **Einstellungen**
 
 ![ERP-Klassik – Einstellungen](shots/de-erp-5-settings.png)
+
+</details>
+
+<details open>
+<summary><b>Desktop-Widget</b></summary>
+
+<img src="shots/de-material3-6-widget.png" alt="Material 3 – eingeklappt" width="150"> <img src="shots/de-material3-7-widget-open.png" alt="Material 3 – Maus darüber" width="260">
+
+<img src="shots/de-comic-6-widget.png" alt="Comic – eingeklappt" width="150"> <img src="shots/de-comic-7-widget-open.png" alt="Comic – Maus darüber" width="260">
+
+<img src="shots/de-space-6-widget.png" alt="Retro-Zukunft – eingeklappt" width="150"> <img src="shots/de-space-7-widget-open.png" alt="Retro-Zukunft – Maus darüber" width="260">
+
+<img src="shots/de-erp-6-widget.png" alt="ERP-Klassik – eingeklappt" width="150"> <img src="shots/de-erp-7-widget-open.png" alt="ERP-Klassik – Maus darüber" width="260">
 
 </details>
 
