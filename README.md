@@ -13,7 +13,7 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Your own Today page** – move cards, resize them from any edge or hide them, and add headings, text and lines as building blocks.
 - **Automatic tracking** – start, end and location come from your Wi-Fi or LAN connection while you are active on your Mac. Manual changes always win.
 - **Start, break, stop** – or simply switch to your own hours for a day. Both values stay saved, so you can switch back at any time. Working time shows the real time: only recorded breaks are deducted, and the automatic statutory break can be switched on in the settings.
-- **Calendar** – every day at a glance: home office, office, business trip, vacation, sick days and public holidays. Click a day to edit it.
+- **Calendar** – every day at a glance: home office, office, business trip, vacation, sick days and public holidays. Click a day to edit it, or drag across several days to enter vacation or a business trip in one go. Half days work too, such as half a day of vacation.
 - **Monthly report** – working time, target, overtime balance and vacation days, with CSV export.
 - **Office quota** – shows how many office days you still need this month.
 - **Packages** – assign your time to projects and booking numbers, with one click from the Today page. A package still active at the end of the day can continue on the next working day. Azure DevOps tickets can be linked (read-only).
@@ -169,7 +169,7 @@ The source code is not hosted here.
 - **Deine eigene Heute-Seite** – Karten verschieben, an allen Kanten in der Größe ändern oder ausblenden, dazu Überschriften, Texte und Linien als Bausteine.
 - **Automatische Erfassung** – Beginn, Ende und Ort kommen aus deiner WLAN- oder LAN-Verbindung, solange du am Mac aktiv bist. Manuelle Änderungen haben immer Vorrang.
 - **Start, Pause, Stop** – oder für einen Tag einfach auf eigene Stunden umschalten. Beide Werte bleiben gespeichert, du kannst jederzeit zurück. Die Arbeitszeit zeigt die wirkliche Zeit: Abgezogen werden nur erfasste Pausen, der automatische Abzug nach Gesetz lässt sich in den Einstellungen einschalten.
-- **Kalender** – jeder Tag auf einen Blick: Homeoffice, Büro, Dienstreise, Urlaub, Krankheit und Feiertage. Ein Klick auf den Tag öffnet die Bearbeitung.
+- **Kalender** – jeder Tag auf einen Blick: Homeoffice, Büro, Dienstreise, Urlaub, Krankheit und Feiertage. Ein Klick auf den Tag öffnet die Bearbeitung, Ziehen über mehrere Tage trägt Urlaub oder Dienstreise auf einmal ein. Auch halbe Tage gehen, zum Beispiel ein halber Urlaubstag.
 - **Monatsabrechnung** – Arbeitszeit, Soll, Überstundenkonto und Urlaubstage, mit CSV-Export.
 - **Büro-Quote** – zeigt, wie viele Bürotage dir in diesem Monat noch fehlen.
 - **Pakete** – ordne deine Zeit Projekten und Buchungsnummern zu, mit einem Klick direkt auf der Heute-Seite. Ein Paket, das bei Feierabend noch aktiv ist, läuft auf Wunsch am nächsten Arbeitstag weiter. Azure-DevOps-Tickets lassen sich verknüpfen (nur lesend).
