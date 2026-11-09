@@ -19,13 +19,13 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Packages** – assign your time to projects and booking numbers, with one click from the Today page. A package still active at the end of the day can continue on the next working day. Azure DevOps tickets can be linked (read-only).
 - **Reminders** – a notification when your daily target is reached, and a prompt to end a break.
 - **Menu bar** – status and controls are always one click away.
-- **Desktop widget** – a small avatar shows your running working time, with its own figure for each design: a flower in Comic, a rocket in Retro Future. Hover over it to pause, resume or start a package, double-click to open the app. It stays in the foreground or sits behind all windows, as you like, and remembers where you put it. Now and then the figure says something in a speech bubble – sayings, real quotes on work with their source, or sayings of your own. In ERP Classic it is a paperclip with glasses and a clipboard.
+- **Desktop widget** – a small avatar shows your running working time, with its own figure for each design: a flower in Comic, a rocket in Retro Future. Hover over it to pause, resume or start a package, double-click to open the app. It stays in the foreground or sits behind all windows, as you like, and remembers where you put it. It never shows up in screen sharing or recordings. Now and then the figure says something in a speech bubble – sayings, real quotes on work with their source, or sayings of your own. In ERP Classic it is a paperclip with glasses and a clipboard.
 - **AI tools (MCP)** – optionally let an AI tool on your Mac, such as Claude or Cursor, operate the app: say "I started at 3 today", "my break was only 30 minutes" or "enter vacation from Monday to Friday", or ask how many office days you still need. Off by default.
 - **Five designs, plus your own** – iOS 26, Material 3, Comic, Retro Future and ERP Classic, which uses only gray and blue and has no rounded corners. An AI tool can also create custom designs with your colors, font and rounded corners, and add your own background, logo, card pictures, Dock icon and icons; they then appear in the settings.
 - **Searchable settings** – type a word and only the matching settings remain, with the matches highlighted.
 - **Your data stays on your Mac** – there is no account and no cloud. Location Services are only needed because macOS reveals the Wi-Fi name that way; no location data is stored. If you connect an AI tool, what it reads may go to its provider, depending on the tool. It gets your work times and notes, but no Wi-Fi names, tokens or tickets.
 
-The app is available in English and German. It follows your macOS language, or you choose the language in the settings.
+The app is available in English, German and Spanish. It follows your macOS language, or you choose the language in the settings.
 
 ### Screenshots
 
@@ -175,13 +175,13 @@ The source code is not hosted here.
 - **Pakete** – ordne deine Zeit Projekten und Buchungsnummern zu, mit einem Klick direkt auf der Heute-Seite. Ein Paket, das bei Feierabend noch aktiv ist, läuft auf Wunsch am nächsten Arbeitstag weiter. Azure-DevOps-Tickets lassen sich verknüpfen (nur lesend).
 - **Erinnerungen** – eine Mitteilung, wenn das Tagessoll geschafft ist, und eine Nachfrage, wenn die Pause zu Ende sein könnte.
 - **Menüleiste** – Status und Steuerung sind immer einen Klick entfernt.
-- **Desktop-Widget** – ein kleiner Avatar zeigt die laufende Arbeitszeit, je Design eine eigene Figur: im Comic eine Blume, in Retro-Zukunft eine Rakete. Maus darüber zeigt Pause, Fortsetzen und deine Pakete zum Starten, Doppelklick öffnet die App. Es bleibt auf Wunsch im Vordergrund oder liegt hinter allen Fenstern und merkt sich seinen Platz. Ab und zu sagt die Figur etwas in einer Sprechblase – Sprüche, echte Zitate zur Arbeit mit Quelle oder eigene Sprüche. In ERP-Klassik ist sie eine Büroklammer mit Brille und Klemmbrett.
+- **Desktop-Widget** – ein kleiner Avatar zeigt die laufende Arbeitszeit, je Design eine eigene Figur: im Comic eine Blume, in Retro-Zukunft eine Rakete. Maus darüber zeigt Pause, Fortsetzen und deine Pakete zum Starten, Doppelklick öffnet die App. Es bleibt auf Wunsch im Vordergrund oder liegt hinter allen Fenstern und merkt sich seinen Platz. In Bildschirmfreigaben und Aufnahmen erscheint es nicht. Ab und zu sagt die Figur etwas in einer Sprechblase – Sprüche, echte Zitate zur Arbeit mit Quelle oder eigene Sprüche. In ERP-Klassik ist sie eine Büroklammer mit Brille und Klemmbrett.
 - **KI-Tools (MCP)** – auf Wunsch bedient ein KI-Tool auf deinem Mac, zum Beispiel Claude oder Cursor, die App: Sag „Ich habe heute um 3 angefangen“, „Meine Pause war nur 30 Minuten“ oder „Trag mir von Montag bis Freitag Urlaub ein“, oder frag, wie viele Bürotage dir noch fehlen. Standardmäßig aus.
 - **Fünf Designs und eigene** – iOS 26, Material 3, Comic, Retro-Zukunft und ERP-Klassik, das nur Grau und Blau kennt und keine Rundungen hat. Ein KI-Tool kann außerdem eigene Designs mit deinen Farben, deiner Schrift und deinen Rundungen anlegen und ihnen eigene Hintergründe, ein Logo, Kartenbilder, ein Dock-Symbol und Icons geben; sie stehen dann in den Einstellungen.
 - **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen, die Treffer sind markiert.
 - **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Die Ortungsdienste braucht die App nur, weil macOS den WLAN-Namen so herausgibt; Standortdaten werden nicht gespeichert. Wenn du ein KI-Tool verbindest, kann das, was es liest, je nach Tool an dessen Anbieter gehen. Es bekommt deine Arbeitszeiten und Notizen, aber keine WLAN-Namen, Tokens oder Tickets.
 
-Die App gibt es auf Deutsch und Englisch. Sie folgt der Sprache von macOS, oder du wählst die Sprache in den Einstellungen.
+Die App gibt es auf Deutsch, Englisch und Spanisch. Sie folgt der Sprache von macOS, oder du wählst die Sprache in den Einstellungen.
 
 ### Screenshots
 
