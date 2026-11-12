@@ -24,6 +24,7 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Five designs, plus your own** – Glass, Flat, Comic, Retro Future and Classic, which uses only gray and blue and has no rounded corners. Can't decide? Switch on "Surprise me" and the app picks a random design every morning when you start work. An AI tool can also create custom designs with your colors, font and rounded corners, and add your own background, logo, card pictures, Dock icon and icons; they then appear in the settings. A custom design can give the desktop widget a look of its own: colors, rounded corners, a picture of your own instead of the figure, a background picture and a bigger or smaller figure at the screen edge.
 - **Searchable settings** – type a word and only the matching settings remain, with the matches highlighted.
 - **Startup music** – if you like, the app plays a short song with vocals when it starts: skate punk, techno, Swedish metal, Schlager or a kids' song. Pick one song or a different one each time, and preview each in the settings. Off by default.
+- **Fun** – a page in the sidebar with a music player and two songs: play, pause, seek, shuffle, repeat and volume. The music keeps playing while you switch pages and responds to the media keys.
 - **Your data stays on your Mac** – there is no account and no cloud. Location Services are only needed because macOS reveals the Wi-Fi name that way; no location data is stored. If you connect an AI tool, what it reads may go to its provider, depending on the tool. It gets your work times, notes and the names, ticket numbers and booking numbers of your packages, but no Wi-Fi names or tokens.
 
 The app is available in English, German and Spanish. It follows your macOS language, or you choose the language in the settings.
@@ -55,6 +56,10 @@ All data in these pictures is made up.
 
 ![Flat – Settings](shots/en-material3-5-settings.png)
 
+**Fun**
+
+![Flat – Fun](shots/en-material3-10-fun.png)
+
 </details>
 
 <details>
@@ -79,6 +84,10 @@ All data in these pictures is made up.
 **Settings**
 
 ![Comic – Settings](shots/en-comic-5-settings.png)
+
+**Fun**
+
+![Comic – Fun](shots/en-comic-10-fun.png)
 
 </details>
 
@@ -105,6 +114,10 @@ All data in these pictures is made up.
 
 ![Retro Future – Settings](shots/en-space-5-settings.png)
 
+**Fun**
+
+![Retro Future – Fun](shots/en-space-10-fun.png)
+
 </details>
 
 <details>
@@ -129,6 +142,10 @@ All data in these pictures is made up.
 **Settings**
 
 ![Classic – Settings](shots/en-erp-5-settings.png)
+
+**Fun**
+
+![Classic – Fun](shots/en-erp-10-fun.png)
 
 </details>
 
@@ -181,6 +198,7 @@ The source code is not hosted here.
 - **Fünf Designs und eigene** – Glas, Flächig, Comic, Retro-Zukunft und Klassik, das nur Grau und Blau kennt und keine Rundungen hat. Kannst du dich nicht entscheiden? Mit „Überrasch mich“ wählt die App jeden Morgen zum Arbeitsbeginn ein zufälliges Design. Ein KI-Tool kann außerdem eigene Designs mit deinen Farben, deiner Schrift und deinen Rundungen anlegen und ihnen eigene Hintergründe, ein Logo, Kartenbilder, ein Dock-Symbol und Icons geben; sie stehen dann in den Einstellungen. Ein eigenes Design kann auch dem Desktop-Widget eine eigene Optik geben: Farben, Rundungen, ein eigenes Bild statt der Figur, ein Hintergrundbild und eine größere oder kleinere Figur am Bildschirmrand.
 - **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen, die Treffer sind markiert.
 - **Startmusik** – auf Wunsch spielt die App beim Start ein kurzes Lied mit Gesang: Skate-Punk, Techno, Schwedenmetal, Schlager oder Kinderlied. Ein festes Lied oder jedes Mal ein anderes, jedes lässt sich in den Einstellungen vorher anhören. Standardmäßig aus.
+- **Fun** – eine Seite in der Seitenleiste mit Musikplayer und zwei Liedern: abspielen, pausieren, spulen, Zufall, Wiederholen und Lautstärke. Die Musik läuft weiter, wenn du die Seite wechselst, und hört auf die Medientasten.
 - **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Die Ortungsdienste braucht die App nur, weil macOS den WLAN-Namen so herausgibt; Standortdaten werden nicht gespeichert. Wenn du ein KI-Tool verbindest, kann das, was es liest, je nach Tool an dessen Anbieter gehen. Es bekommt deine Arbeitszeiten, Notizen sowie Namen, Ticket- und Buchungsnummern deiner Pakete, aber keine WLAN-Namen und keine Tokens.
 
 Die App gibt es auf Deutsch, Englisch und Spanisch. Sie folgt der Sprache von macOS, oder du wählst die Sprache in den Einstellungen.
@@ -212,6 +230,10 @@ Alle Daten auf den Bildern sind erfunden.
 
 ![Flächig – Einstellungen](shots/de-material3-5-settings.png)
 
+**Fun**
+
+![Flächig – Fun](shots/de-material3-10-fun.png)
+
 </details>
 
 <details>
@@ -236,6 +258,10 @@ Alle Daten auf den Bildern sind erfunden.
 **Einstellungen**
 
 ![Comic – Einstellungen](shots/de-comic-5-settings.png)
+
+**Fun**
+
+![Comic – Fun](shots/de-comic-10-fun.png)
 
 </details>
 
@@ -262,6 +288,10 @@ Alle Daten auf den Bildern sind erfunden.
 
 ![Retro-Zukunft – Einstellungen](shots/de-space-5-settings.png)
 
+**Fun**
+
+![Retro-Zukunft – Fun](shots/de-space-10-fun.png)
+
 </details>
 
 <details>
@@ -286,6 +316,10 @@ Alle Daten auf den Bildern sind erfunden.
 **Einstellungen**
 
 ![Klassik – Einstellungen](shots/de-erp-5-settings.png)
+
+**Fun**
+
+![Klassik – Fun](shots/de-erp-10-fun.png)
 
 </details>
 
