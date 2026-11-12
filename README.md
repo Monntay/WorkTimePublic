@@ -19,9 +19,9 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Packages** – assign your time to projects and booking numbers, with one click from the Today page. A package still active at the end of the day can continue on the next working day. Azure DevOps tickets can be linked (read-only).
 - **Reminders** – a notification when your daily target is reached, and a prompt to end a break.
 - **Menu bar** – status and controls are always one click away.
-- **Desktop widget** – a small avatar shows your running working time, with its own figure for each design: a flower in Comic, a rocket in Retro Future. Hover over it to pause, resume or start a package, double-click to open the app. It stays in the foreground or sits behind all windows, as you like, and remembers where you put it. If it takes up too much room, dock it to the right edge of the screen: there it shrinks to a small figure with a ring that fills up to your daily target. Hover over it and the full widget slides out; drag it up or down along the edge. A button in the widget switches between both. It never shows up in screen sharing or recordings. Now and then the figure says something in a speech bubble – sayings, real quotes on work with their source, or sayings of your own. In ERP Classic it is a paperclip with glasses and a clipboard.
+- **Desktop widget** – a small avatar shows your running working time, with its own figure for each design: a flower in Comic, a rocket in Retro Future. Hover over it to pause, resume or start a package, double-click to open the app. It stays in the foreground or sits behind all windows, as you like, and remembers where you put it. If it takes up too much room, dock it to the right edge of the screen: there it shrinks to a small figure with a ring that fills up to your daily target. Hover over it and the full widget slides out; drag it up or down along the edge. A button in the widget switches between both. It never shows up in screen sharing or recordings. Now and then the figure says something in a speech bubble – sayings, real quotes on work with their source, or sayings of your own. In Classic it is a stamp with glasses and a clipboard.
 - **AI tools (MCP)** – optionally let an AI tool on your Mac, such as Claude or Cursor, operate the app: say "I started at 3 today", "my break was only 30 minutes" or "enter vacation from Monday to Friday", or ask how many office days you still need. It can also switch the desktop widget on or off, dock it to the screen edge or move it there, and pick or create the work package you are working on; with an Azure DevOps ticket the booking number is filled in from the ticket. Off by default.
-- **Five designs, plus your own** – iOS 26, Material 3, Comic, Retro Future and ERP Classic, which uses only gray and blue and has no rounded corners. Can't decide? Switch on "Surprise me" and the app picks a random design every morning when you start work. An AI tool can also create custom designs with your colors, font and rounded corners, and add your own background, logo, card pictures, Dock icon and icons; they then appear in the settings. A custom design can give the desktop widget a look of its own: colors, rounded corners, a picture of your own instead of the figure, a background picture and a bigger or smaller figure at the screen edge.
+- **Five designs, plus your own** – Glass, Flat, Comic, Retro Future and Classic, which uses only gray and blue and has no rounded corners. Can't decide? Switch on "Surprise me" and the app picks a random design every morning when you start work. An AI tool can also create custom designs with your colors, font and rounded corners, and add your own background, logo, card pictures, Dock icon and icons; they then appear in the settings. A custom design can give the desktop widget a look of its own: colors, rounded corners, a picture of your own instead of the figure, a background picture and a bigger or smaller figure at the screen edge.
 - **Searchable settings** – type a word and only the matching settings remain, with the matches highlighted.
 - **Startup music** – if you like, the app plays a short song with vocals when it starts: skate punk, techno, Swedish metal, Schlager or a kids' song. Pick one song or a different one each time, and preview each in the settings. Off by default.
 - **Your data stays on your Mac** – there is no account and no cloud. Location Services are only needed because macOS reveals the Wi-Fi name that way; no location data is stored. If you connect an AI tool, what it reads may go to its provider, depending on the tool. It gets your work times, notes and the names, ticket numbers and booking numbers of your packages, but no Wi-Fi names or tokens.
@@ -33,27 +33,27 @@ The app is available in English, German and Spanish. It follows your macOS langu
 All data in these pictures is made up.
 
 <details open>
-<summary><b>Material 3</b></summary>
+<summary><b>Flat</b></summary>
 
 **Today**
 
-![Material 3 – Today](shots/en-material3-1-today.png)
+![Flat – Today](shots/en-material3-1-today.png)
 
 **Calendar**
 
-![Material 3 – Calendar](shots/en-material3-2-calendar.png)
+![Flat – Calendar](shots/en-material3-2-calendar.png)
 
 **Report**
 
-![Material 3 – Report](shots/en-material3-3-report.png)
+![Flat – Report](shots/en-material3-3-report.png)
 
 **Packages**
 
-![Material 3 – Packages](shots/en-material3-4-packages.png)
+![Flat – Packages](shots/en-material3-4-packages.png)
 
 **Settings**
 
-![Material 3 – Settings](shots/en-material3-5-settings.png)
+![Flat – Settings](shots/en-material3-5-settings.png)
 
 </details>
 
@@ -108,40 +108,40 @@ All data in these pictures is made up.
 </details>
 
 <details>
-<summary><b>ERP Classic</b></summary>
+<summary><b>Classic</b></summary>
 
 **Today**
 
-![ERP Classic – Today](shots/en-erp-1-today.png)
+![Classic – Today](shots/en-erp-1-today.png)
 
 **Calendar**
 
-![ERP Classic – Calendar](shots/en-erp-2-calendar.png)
+![Classic – Calendar](shots/en-erp-2-calendar.png)
 
 **Report**
 
-![ERP Classic – Report](shots/en-erp-3-report.png)
+![Classic – Report](shots/en-erp-3-report.png)
 
 **Packages**
 
-![ERP Classic – Packages](shots/en-erp-4-packages.png)
+![Classic – Packages](shots/en-erp-4-packages.png)
 
 **Settings**
 
-![ERP Classic – Settings](shots/en-erp-5-settings.png)
+![Classic – Settings](shots/en-erp-5-settings.png)
 
 </details>
 
 <details open>
 <summary><b>Desktop widget</b></summary>
 
-<img src="shots/en-material3-6-widget.png" alt="Material 3 – collapsed" width="150"> <img src="shots/en-material3-7-widget-open.png" alt="Material 3 – on hover" width="260"> <img src="shots/en-material3-8-widget-quote.png" alt="Material 3 – with a saying" width="200"> <img src="shots/en-material3-9-widget-edge.png" alt="Material 3 – at the edge" width="90"> <img src="shots/en-material3-9-widget-edge-open.png" alt="Material 3 – at the edge, on hover" width="200">
+<img src="shots/en-material3-6-widget.png" alt="Flat – collapsed" width="150"> <img src="shots/en-material3-7-widget-open.png" alt="Flat – on hover" width="260"> <img src="shots/en-material3-8-widget-quote.png" alt="Flat – with a saying" width="200"> <img src="shots/en-material3-9-widget-edge.png" alt="Flat – at the edge" width="90"> <img src="shots/en-material3-9-widget-edge-open.png" alt="Flat – at the edge, on hover" width="200">
 
 <img src="shots/en-comic-6-widget.png" alt="Comic – collapsed" width="150"> <img src="shots/en-comic-7-widget-open.png" alt="Comic – on hover" width="260"> <img src="shots/en-comic-8-widget-quote.png" alt="Comic – with a saying" width="200"> <img src="shots/en-comic-9-widget-edge.png" alt="Comic – at the edge" width="90"> <img src="shots/en-comic-9-widget-edge-open.png" alt="Comic – at the edge, on hover" width="200">
 
 <img src="shots/en-space-6-widget.png" alt="Retro Future – collapsed" width="150"> <img src="shots/en-space-7-widget-open.png" alt="Retro Future – on hover" width="260"> <img src="shots/en-space-8-widget-quote.png" alt="Retro Future – with a saying" width="200"> <img src="shots/en-space-9-widget-edge.png" alt="Retro Future – at the edge" width="90"> <img src="shots/en-space-9-widget-edge-open.png" alt="Retro Future – at the edge, on hover" width="200">
 
-<img src="shots/en-erp-6-widget.png" alt="ERP Classic – collapsed" width="150"> <img src="shots/en-erp-7-widget-open.png" alt="ERP Classic – on hover" width="260"> <img src="shots/en-erp-8-widget-quote.png" alt="ERP Classic – with a saying" width="200"> <img src="shots/en-erp-9-widget-edge.png" alt="ERP Classic – at the edge" width="90"> <img src="shots/en-erp-9-widget-edge-open.png" alt="ERP Classic – at the edge, on hover" width="200">
+<img src="shots/en-erp-6-widget.png" alt="Classic – collapsed" width="150"> <img src="shots/en-erp-7-widget-open.png" alt="Classic – on hover" width="260"> <img src="shots/en-erp-8-widget-quote.png" alt="Classic – with a saying" width="200"> <img src="shots/en-erp-9-widget-edge.png" alt="Classic – at the edge" width="90"> <img src="shots/en-erp-9-widget-edge-open.png" alt="Classic – at the edge, on hover" width="200">
 
 </details>
 
@@ -176,9 +176,9 @@ The source code is not hosted here.
 - **Pakete** – ordne deine Zeit Projekten und Buchungsnummern zu, mit einem Klick direkt auf der Heute-Seite. Ein Paket, das bei Feierabend noch aktiv ist, läuft auf Wunsch am nächsten Arbeitstag weiter. Azure-DevOps-Tickets lassen sich verknüpfen (nur lesend).
 - **Erinnerungen** – eine Mitteilung, wenn das Tagessoll geschafft ist, und eine Nachfrage, wenn die Pause zu Ende sein könnte.
 - **Menüleiste** – Status und Steuerung sind immer einen Klick entfernt.
-- **Desktop-Widget** – ein kleiner Avatar zeigt die laufende Arbeitszeit, je Design eine eigene Figur: im Comic eine Blume, in Retro-Zukunft eine Rakete. Maus darüber zeigt Pause, Fortsetzen und deine Pakete zum Starten, Doppelklick öffnet die App. Es bleibt auf Wunsch im Vordergrund oder liegt hinter allen Fenstern und merkt sich seinen Platz. Braucht es zu viel Platz, dockt es am rechten Bildschirmrand an: Dort ist es eine kleine Figur mit einem Ring, der sich bis zum Tagessoll füllt. Maus darüber klappt das ganze Widget heraus, Ziehen verschiebt es am Rand hoch und runter. Ein Knopf im Widget wechselt zwischen beidem. In Bildschirmfreigaben und Aufnahmen erscheint es nicht. Ab und zu sagt die Figur etwas in einer Sprechblase – Sprüche, echte Zitate zur Arbeit mit Quelle oder eigene Sprüche. In ERP-Klassik ist sie eine Büroklammer mit Brille und Klemmbrett.
+- **Desktop-Widget** – ein kleiner Avatar zeigt die laufende Arbeitszeit, je Design eine eigene Figur: im Comic eine Blume, in Retro-Zukunft eine Rakete. Maus darüber zeigt Pause, Fortsetzen und deine Pakete zum Starten, Doppelklick öffnet die App. Es bleibt auf Wunsch im Vordergrund oder liegt hinter allen Fenstern und merkt sich seinen Platz. Braucht es zu viel Platz, dockt es am rechten Bildschirmrand an: Dort ist es eine kleine Figur mit einem Ring, der sich bis zum Tagessoll füllt. Maus darüber klappt das ganze Widget heraus, Ziehen verschiebt es am Rand hoch und runter. Ein Knopf im Widget wechselt zwischen beidem. In Bildschirmfreigaben und Aufnahmen erscheint es nicht. Ab und zu sagt die Figur etwas in einer Sprechblase – Sprüche, echte Zitate zur Arbeit mit Quelle oder eigene Sprüche. In Klassik ist sie ein Stempel mit Brille und Klemmbrett.
 - **KI-Tools (MCP)** – auf Wunsch bedient ein KI-Tool auf deinem Mac, zum Beispiel Claude oder Cursor, die App: Sag „Ich habe heute um 3 angefangen“, „Meine Pause war nur 30 Minuten“ oder „Trag mir von Montag bis Freitag Urlaub ein“, oder frag, wie viele Bürotage dir noch fehlen. Es kann auch das Desktop-Widget ein- und ausschalten, an den Bildschirmrand setzen oder dort verschieben und das Arbeitspaket auswählen oder anlegen, an dem du gerade arbeitest; bei einem Azure-DevOps-Ticket kommt die Buchungsnummer aus dem Ticket. Standardmäßig aus.
-- **Fünf Designs und eigene** – iOS 26, Material 3, Comic, Retro-Zukunft und ERP-Klassik, das nur Grau und Blau kennt und keine Rundungen hat. Kannst du dich nicht entscheiden? Mit „Überrasch mich“ wählt die App jeden Morgen zum Arbeitsbeginn ein zufälliges Design. Ein KI-Tool kann außerdem eigene Designs mit deinen Farben, deiner Schrift und deinen Rundungen anlegen und ihnen eigene Hintergründe, ein Logo, Kartenbilder, ein Dock-Symbol und Icons geben; sie stehen dann in den Einstellungen. Ein eigenes Design kann auch dem Desktop-Widget eine eigene Optik geben: Farben, Rundungen, ein eigenes Bild statt der Figur, ein Hintergrundbild und eine größere oder kleinere Figur am Bildschirmrand.
+- **Fünf Designs und eigene** – Glas, Flächig, Comic, Retro-Zukunft und Klassik, das nur Grau und Blau kennt und keine Rundungen hat. Kannst du dich nicht entscheiden? Mit „Überrasch mich“ wählt die App jeden Morgen zum Arbeitsbeginn ein zufälliges Design. Ein KI-Tool kann außerdem eigene Designs mit deinen Farben, deiner Schrift und deinen Rundungen anlegen und ihnen eigene Hintergründe, ein Logo, Kartenbilder, ein Dock-Symbol und Icons geben; sie stehen dann in den Einstellungen. Ein eigenes Design kann auch dem Desktop-Widget eine eigene Optik geben: Farben, Rundungen, ein eigenes Bild statt der Figur, ein Hintergrundbild und eine größere oder kleinere Figur am Bildschirmrand.
 - **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen, die Treffer sind markiert.
 - **Startmusik** – auf Wunsch spielt die App beim Start ein kurzes Lied mit Gesang: Skate-Punk, Techno, Schwedenmetal, Schlager oder Kinderlied. Ein festes Lied oder jedes Mal ein anderes, jedes lässt sich in den Einstellungen vorher anhören. Standardmäßig aus.
 - **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Die Ortungsdienste braucht die App nur, weil macOS den WLAN-Namen so herausgibt; Standortdaten werden nicht gespeichert. Wenn du ein KI-Tool verbindest, kann das, was es liest, je nach Tool an dessen Anbieter gehen. Es bekommt deine Arbeitszeiten, Notizen sowie Namen, Ticket- und Buchungsnummern deiner Pakete, aber keine WLAN-Namen und keine Tokens.
@@ -190,27 +190,27 @@ Die App gibt es auf Deutsch, Englisch und Spanisch. Sie folgt der Sprache von ma
 Alle Daten auf den Bildern sind erfunden.
 
 <details open>
-<summary><b>Material 3</b></summary>
+<summary><b>Flächig</b></summary>
 
 **Heute**
 
-![Material 3 – Heute](shots/de-material3-1-today.png)
+![Flächig – Heute](shots/de-material3-1-today.png)
 
 **Kalender**
 
-![Material 3 – Kalender](shots/de-material3-2-calendar.png)
+![Flächig – Kalender](shots/de-material3-2-calendar.png)
 
 **Abrechnung**
 
-![Material 3 – Abrechnung](shots/de-material3-3-report.png)
+![Flächig – Abrechnung](shots/de-material3-3-report.png)
 
 **Pakete**
 
-![Material 3 – Pakete](shots/de-material3-4-packages.png)
+![Flächig – Pakete](shots/de-material3-4-packages.png)
 
 **Einstellungen**
 
-![Material 3 – Einstellungen](shots/de-material3-5-settings.png)
+![Flächig – Einstellungen](shots/de-material3-5-settings.png)
 
 </details>
 
@@ -265,40 +265,40 @@ Alle Daten auf den Bildern sind erfunden.
 </details>
 
 <details>
-<summary><b>ERP-Klassik</b></summary>
+<summary><b>Klassik</b></summary>
 
 **Heute**
 
-![ERP-Klassik – Heute](shots/de-erp-1-today.png)
+![Klassik – Heute](shots/de-erp-1-today.png)
 
 **Kalender**
 
-![ERP-Klassik – Kalender](shots/de-erp-2-calendar.png)
+![Klassik – Kalender](shots/de-erp-2-calendar.png)
 
 **Abrechnung**
 
-![ERP-Klassik – Abrechnung](shots/de-erp-3-report.png)
+![Klassik – Abrechnung](shots/de-erp-3-report.png)
 
 **Pakete**
 
-![ERP-Klassik – Pakete](shots/de-erp-4-packages.png)
+![Klassik – Pakete](shots/de-erp-4-packages.png)
 
 **Einstellungen**
 
-![ERP-Klassik – Einstellungen](shots/de-erp-5-settings.png)
+![Klassik – Einstellungen](shots/de-erp-5-settings.png)
 
 </details>
 
 <details open>
 <summary><b>Desktop-Widget</b></summary>
 
-<img src="shots/de-material3-6-widget.png" alt="Material 3 – eingeklappt" width="150"> <img src="shots/de-material3-7-widget-open.png" alt="Material 3 – Maus darüber" width="260"> <img src="shots/de-material3-8-widget-quote.png" alt="Material 3 – mit Spruch" width="200"> <img src="shots/de-material3-9-widget-edge.png" alt="Material 3 – am Rand" width="90"> <img src="shots/de-material3-9-widget-edge-open.png" alt="Material 3 – am Rand, Maus darüber" width="200">
+<img src="shots/de-material3-6-widget.png" alt="Flächig – eingeklappt" width="150"> <img src="shots/de-material3-7-widget-open.png" alt="Flächig – Maus darüber" width="260"> <img src="shots/de-material3-8-widget-quote.png" alt="Flächig – mit Spruch" width="200"> <img src="shots/de-material3-9-widget-edge.png" alt="Flächig – am Rand" width="90"> <img src="shots/de-material3-9-widget-edge-open.png" alt="Flächig – am Rand, Maus darüber" width="200">
 
 <img src="shots/de-comic-6-widget.png" alt="Comic – eingeklappt" width="150"> <img src="shots/de-comic-7-widget-open.png" alt="Comic – Maus darüber" width="260"> <img src="shots/de-comic-8-widget-quote.png" alt="Comic – mit Spruch" width="200"> <img src="shots/de-comic-9-widget-edge.png" alt="Comic – am Rand" width="90"> <img src="shots/de-comic-9-widget-edge-open.png" alt="Comic – am Rand, Maus darüber" width="200">
 
 <img src="shots/de-space-6-widget.png" alt="Retro-Zukunft – eingeklappt" width="150"> <img src="shots/de-space-7-widget-open.png" alt="Retro-Zukunft – Maus darüber" width="260"> <img src="shots/de-space-8-widget-quote.png" alt="Retro-Zukunft – mit Spruch" width="200"> <img src="shots/de-space-9-widget-edge.png" alt="Retro-Zukunft – am Rand" width="90"> <img src="shots/de-space-9-widget-edge-open.png" alt="Retro-Zukunft – am Rand, Maus darüber" width="200">
 
-<img src="shots/de-erp-6-widget.png" alt="ERP-Klassik – eingeklappt" width="150"> <img src="shots/de-erp-7-widget-open.png" alt="ERP-Klassik – Maus darüber" width="260"> <img src="shots/de-erp-8-widget-quote.png" alt="ERP-Klassik – mit Spruch" width="200"> <img src="shots/de-erp-9-widget-edge.png" alt="ERP-Klassik – am Rand" width="90"> <img src="shots/de-erp-9-widget-edge-open.png" alt="ERP-Klassik – am Rand, Maus darüber" width="200">
+<img src="shots/de-erp-6-widget.png" alt="Klassik – eingeklappt" width="150"> <img src="shots/de-erp-7-widget-open.png" alt="Klassik – Maus darüber" width="260"> <img src="shots/de-erp-8-widget-quote.png" alt="Klassik – mit Spruch" width="200"> <img src="shots/de-erp-9-widget-edge.png" alt="Klassik – am Rand" width="90"> <img src="shots/de-erp-9-widget-edge-open.png" alt="Klassik – am Rand, Maus darüber" width="200">
 
 </details>
 
