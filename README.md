@@ -24,8 +24,14 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Five designs, plus your own** – Glass, Flat, Comic, Retro Future and Classic, which uses only gray and blue and has no rounded corners. Can't decide? Switch on "Surprise me" and the app picks a random design every morning when you start work. An AI tool can also create custom designs with your colors, font and rounded corners, and add your own background, logo, card pictures, Dock icon and icons; they then appear in the settings. A custom design can give the desktop widget a look of its own: colors, rounded corners, a picture of your own instead of the figure, a background picture and a bigger or smaller figure at the screen edge.
 - **Searchable settings** – type a word and only the matching settings remain, with the matches highlighted.
 - **Startup music** – if you like, the app plays a short song with vocals when it starts: skate punk, techno, Swedish metal, Schlager or a kids' song. Pick one song or a different one each time, and preview each in the settings. Off by default.
-- **Fun** – a page in the sidebar with a music player and two songs: play, pause, seek, shuffle, repeat and volume. The music keeps playing while you switch pages and responds to the media keys.
-- **Your data stays on your Mac** – there is no account and no cloud. Location Services are only needed because macOS reveals the Wi-Fi name that way; no location data is stored. If you connect an AI tool, what it reads may go to its provider, depending on the tool. It gets your work times, notes and the names, ticket numbers and booking numbers of your packages, but no Wi-Fi names or tokens.
+- **Weather** – now, the next hours and the next days at your location (data: MET Norway), with a hint when rain starts or stops. The sidebar icon shows the current weather. In Germany a rain radar (data: Deutscher Wetterdienst, CC BY 4.0) shows the last hour and the next two hours, also as a loop. In the Comic design the sky can show the real weather if you like.
+- **Rain tips** – if it will rain when you finish work or at lunch, a notification tells you when you stay dry: leave a little earlier or stay a little longer.
+- **News** – headlines from tagesschau, Deutsche Welle or feeds of your own, as a grid with pictures. Your keywords bring matching news to the top; articles open right inside the app. Your keywords stay on your Mac.
+- **On the go** – departures of S-Bahn, regional and long-distance trains at the stations near you, grouped by line and direction (Germany, scheduled times; timetable: DELFI e.V. / gtfs.de, CC BY 4.0). Plus your way home: how long it takes after work by public transport, car, bike or on foot (Apple Maps). The app learns home and work from your location; the addresses stay on your Mac.
+- **Food** – lunch tips near you on a map, filtered by your preferences: vegetarian or vegan, cuisines you like or don't, how far you want to walk. Every day the app suggests a place you haven't tried yet, with a picture from Apple Maps, and can send you the tip shortly before your usual lunch break. Rate places yourself, keep favorites, or let the wheel of fortune decide.
+- **Music** – a music player with two songs: play, pause, seek, shuffle, repeat and volume. The music keeps playing while you switch pages and responds to the media keys.
+- **Ready when you open them** – weather, news, food and departures load and refresh in the background while you use the app.
+- **Your data stays on your Mac** – there is no account and no cloud. macOS reveals the Wi-Fi name only with Location Services. Weather, food and departures use your location only when you open them or after you have allowed it; the weather service gets it rounded to about 1 km. Only the learned home and work places are stored, and they stay on your Mac. If you connect an AI tool, what it reads may go to its provider, depending on the tool. It gets your work times, notes and the names, ticket numbers and booking numbers of your packages, but no Wi-Fi names, addresses or tokens.
 
 The app is available in English, German and Spanish. It follows your macOS language, or you choose the language in the settings.
 
@@ -56,9 +62,25 @@ All data in these pictures is made up.
 
 ![Flat – Settings](shots/en-material3-5-settings.png)
 
-**Fun**
+**Weather**
 
-![Flat – Fun](shots/en-material3-10-fun.png)
+![Flat – Weather](shots/en-material3-12-weather.png)
+
+**News**
+
+![Flat – News](shots/en-material3-13-news.png)
+
+**On the go**
+
+![Flat – On the go](shots/en-material3-14-transit.png)
+
+**Food**
+
+![Flat – Food](shots/en-material3-10-food.png)
+
+**Music**
+
+![Flat – Music](shots/en-material3-11-music.png)
 
 </details>
 
@@ -85,9 +107,25 @@ All data in these pictures is made up.
 
 ![Comic – Settings](shots/en-comic-5-settings.png)
 
-**Fun**
+**Weather**
 
-![Comic – Fun](shots/en-comic-10-fun.png)
+![Comic – Weather](shots/en-comic-12-weather.png)
+
+**News**
+
+![Comic – News](shots/en-comic-13-news.png)
+
+**On the go**
+
+![Comic – On the go](shots/en-comic-14-transit.png)
+
+**Food**
+
+![Comic – Food](shots/en-comic-10-food.png)
+
+**Music**
+
+![Comic – Music](shots/en-comic-11-music.png)
 
 </details>
 
@@ -114,9 +152,25 @@ All data in these pictures is made up.
 
 ![Retro Future – Settings](shots/en-space-5-settings.png)
 
-**Fun**
+**Weather**
 
-![Retro Future – Fun](shots/en-space-10-fun.png)
+![Retro Future – Weather](shots/en-space-12-weather.png)
+
+**News**
+
+![Retro Future – News](shots/en-space-13-news.png)
+
+**On the go**
+
+![Retro Future – On the go](shots/en-space-14-transit.png)
+
+**Food**
+
+![Retro Future – Food](shots/en-space-10-food.png)
+
+**Music**
+
+![Retro Future – Music](shots/en-space-11-music.png)
 
 </details>
 
@@ -143,9 +197,25 @@ All data in these pictures is made up.
 
 ![Classic – Settings](shots/en-erp-5-settings.png)
 
-**Fun**
+**Weather**
 
-![Classic – Fun](shots/en-erp-10-fun.png)
+![Classic – Weather](shots/en-erp-12-weather.png)
+
+**News**
+
+![Classic – News](shots/en-erp-13-news.png)
+
+**On the go**
+
+![Classic – On the go](shots/en-erp-14-transit.png)
+
+**Food**
+
+![Classic – Food](shots/en-erp-10-food.png)
+
+**Music**
+
+![Classic – Music](shots/en-erp-11-music.png)
 
 </details>
 
@@ -198,8 +268,14 @@ The source code is not hosted here.
 - **Fünf Designs und eigene** – Glas, Flächig, Comic, Retro-Zukunft und Klassik, das nur Grau und Blau kennt und keine Rundungen hat. Kannst du dich nicht entscheiden? Mit „Überrasch mich“ wählt die App jeden Morgen zum Arbeitsbeginn ein zufälliges Design. Ein KI-Tool kann außerdem eigene Designs mit deinen Farben, deiner Schrift und deinen Rundungen anlegen und ihnen eigene Hintergründe, ein Logo, Kartenbilder, ein Dock-Symbol und Icons geben; sie stehen dann in den Einstellungen. Ein eigenes Design kann auch dem Desktop-Widget eine eigene Optik geben: Farben, Rundungen, ein eigenes Bild statt der Figur, ein Hintergrundbild und eine größere oder kleinere Figur am Bildschirmrand.
 - **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen, die Treffer sind markiert.
 - **Startmusik** – auf Wunsch spielt die App beim Start ein kurzes Lied mit Gesang: Skate-Punk, Techno, Schwedenmetal, Schlager oder Kinderlied. Ein festes Lied oder jedes Mal ein anderes, jedes lässt sich in den Einstellungen vorher anhören. Standardmäßig aus.
-- **Fun** – eine Seite in der Seitenleiste mit Musikplayer und zwei Liedern: abspielen, pausieren, spulen, Zufall, Wiederholen und Lautstärke. Die Musik läuft weiter, wenn du die Seite wechselst, und hört auf die Medientasten.
-- **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Die Ortungsdienste braucht die App nur, weil macOS den WLAN-Namen so herausgibt; Standortdaten werden nicht gespeichert. Wenn du ein KI-Tool verbindest, kann das, was es liest, je nach Tool an dessen Anbieter gehen. Es bekommt deine Arbeitszeiten, Notizen sowie Namen, Ticket- und Buchungsnummern deiner Pakete, aber keine WLAN-Namen und keine Tokens.
+- **Wetter** – jetzt, die nächsten Stunden und Tage an deinem Standort (Daten: MET Norway), mit Hinweis, ab wann es regnet oder wieder trocken ist. Das Symbol in der Seitenleiste zeigt das aktuelle Wetter. In Deutschland zeigt ein Regenradar (Daten: Deutscher Wetterdienst, CC BY 4.0) die letzte Stunde und die nächsten zwei Stunden, auf Wunsch als Schleife. Im Design Comic zeigt der Himmel auf Wunsch das echte Wetter.
+- **Regen-Tipps** – regnet es zum Feierabend oder zur Mittagspause, sagt eine Mitteilung, wann du trocken bleibst: etwas früher gehen oder etwas länger bleiben.
+- **Nachrichten** – Meldungen von tagesschau, Deutscher Welle oder eigenen Feeds als Raster mit Bildern. Eigene Stichworte holen passende Meldungen nach oben, Artikel öffnen direkt in der App. Deine Stichworte bleiben auf deinem Mac.
+- **Unterwegs** – Abfahrten von S-Bahn, Regional- und Fernzügen an den Bahnhöfen in deiner Nähe, nach Linie und Richtung gebündelt (Deutschland, Planzeiten; Fahrplan: DELFI e.V. / gtfs.de, CC BY 4.0). Dazu dein Heimweg: wie lange du nach Feierabend nach Hause brauchst, mit Öffis, Auto, Fahrrad oder zu Fuß (Apple Karten). Zuhause und Arbeit erkennt die App selbst am Standort, die Adressen bleiben auf deinem Mac.
+- **Essen** – Mittagstipps in deiner Nähe auf einer Karte, gefiltert nach deinen Vorlieben: vegetarisch oder vegan, Küchen, die du magst oder nicht, wie weit du laufen willst. Jeden Tag schlägt die App ein Lokal vor, in dem du noch nicht warst, mit Bild aus Apple Karten, und schickt den Tipp auf Wunsch kurz vor deiner üblichen Mittagspause. Lokale selbst bewerten, als Favorit merken oder das Glücksrad entscheiden lassen.
+- **Musik** – ein Musikplayer mit zwei Liedern: abspielen, pausieren, spulen, Zufall, Wiederholen und Lautstärke. Die Musik läuft weiter, wenn du die Seite wechselst, und hört auf die Medientasten.
+- **Schon gefüllt beim Öffnen** – Wetter, Nachrichten, Essen und Abfahrten laden im Hintergrund vor und frischen sich auf, solange du die App benutzt.
+- **Deine Daten bleiben auf deinem Mac** – kein Konto, keine Cloud. Den WLAN-Namen gibt macOS nur mit Ortungsdiensten heraus. Wetter, Essen und Abfahrten nutzen deinen Standort erst, wenn du sie öffnest oder ihn schon erlaubt hast; der Wetterdienst bekommt ihn auf etwa 1 km gerundet. Gespeichert werden nur die erkannten Orte von Zuhause und Arbeit, und die bleiben auf deinem Mac. Wenn du ein KI-Tool verbindest, kann das, was es liest, je nach Tool an dessen Anbieter gehen. Es bekommt deine Arbeitszeiten, Notizen sowie Namen, Ticket- und Buchungsnummern deiner Pakete, aber keine WLAN-Namen, Adressen und Tokens.
 
 Die App gibt es auf Deutsch, Englisch und Spanisch. Sie folgt der Sprache von macOS, oder du wählst die Sprache in den Einstellungen.
 
@@ -230,9 +306,25 @@ Alle Daten auf den Bildern sind erfunden.
 
 ![Flächig – Einstellungen](shots/de-material3-5-settings.png)
 
-**Fun**
+**Wetter**
 
-![Flächig – Fun](shots/de-material3-10-fun.png)
+![Flächig – Wetter](shots/de-material3-12-weather.png)
+
+**Nachrichten**
+
+![Flächig – Nachrichten](shots/de-material3-13-news.png)
+
+**Unterwegs**
+
+![Flächig – Unterwegs](shots/de-material3-14-transit.png)
+
+**Essen**
+
+![Flächig – Essen](shots/de-material3-10-food.png)
+
+**Musik**
+
+![Flächig – Musik](shots/de-material3-11-music.png)
 
 </details>
 
@@ -259,9 +351,25 @@ Alle Daten auf den Bildern sind erfunden.
 
 ![Comic – Einstellungen](shots/de-comic-5-settings.png)
 
-**Fun**
+**Wetter**
 
-![Comic – Fun](shots/de-comic-10-fun.png)
+![Comic – Wetter](shots/de-comic-12-weather.png)
+
+**Nachrichten**
+
+![Comic – Nachrichten](shots/de-comic-13-news.png)
+
+**Unterwegs**
+
+![Comic – Unterwegs](shots/de-comic-14-transit.png)
+
+**Essen**
+
+![Comic – Essen](shots/de-comic-10-food.png)
+
+**Musik**
+
+![Comic – Musik](shots/de-comic-11-music.png)
 
 </details>
 
@@ -288,9 +396,25 @@ Alle Daten auf den Bildern sind erfunden.
 
 ![Retro-Zukunft – Einstellungen](shots/de-space-5-settings.png)
 
-**Fun**
+**Wetter**
 
-![Retro-Zukunft – Fun](shots/de-space-10-fun.png)
+![Retro-Zukunft – Wetter](shots/de-space-12-weather.png)
+
+**Nachrichten**
+
+![Retro-Zukunft – Nachrichten](shots/de-space-13-news.png)
+
+**Unterwegs**
+
+![Retro-Zukunft – Unterwegs](shots/de-space-14-transit.png)
+
+**Essen**
+
+![Retro-Zukunft – Essen](shots/de-space-10-food.png)
+
+**Musik**
+
+![Retro-Zukunft – Musik](shots/de-space-11-music.png)
 
 </details>
 
@@ -317,9 +441,25 @@ Alle Daten auf den Bildern sind erfunden.
 
 ![Klassik – Einstellungen](shots/de-erp-5-settings.png)
 
-**Fun**
+**Wetter**
 
-![Klassik – Fun](shots/de-erp-10-fun.png)
+![Klassik – Wetter](shots/de-erp-12-weather.png)
+
+**Nachrichten**
+
+![Klassik – Nachrichten](shots/de-erp-13-news.png)
+
+**Unterwegs**
+
+![Klassik – Unterwegs](shots/de-erp-14-transit.png)
+
+**Essen**
+
+![Klassik – Essen](shots/de-erp-10-food.png)
+
+**Musik**
+
+![Klassik – Musik](shots/de-erp-11-music.png)
 
 </details>
 
