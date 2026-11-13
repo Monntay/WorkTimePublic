@@ -15,12 +15,13 @@ Work-time tracker for macOS · Arbeitszeiterfassung für macOS
 - **Start, break, stop** – or simply switch to your own hours for a day. Both values stay saved, so you can switch back at any time. Working time shows the real time: only recorded breaks are deducted, and the automatic statutory break can be switched on in the settings. Click the working time to see how long you still have to work today, or how far you are above your target; this switches the Today page, the menu bar and the widget together.
 - **Calendar** – every day at a glance: home office, office, business trip, vacation, sick days and public holidays. Click a day to edit it, or drag across several days to enter vacation or a business trip in one go. Half days work too, such as half a day of vacation.
 - **Monthly report** – working time, target, overtime balance and vacation days, with CSV export.
+- **Tax** – the values for the German tax return (Anlage N) of a year without counting in the calendar: home office days with the home office allowance (6 euros a day, at most 210 days) and office days with the commuting allowance. The app works out the distance to work with Apple Maps (shortest road route, whole kilometres); you can change it. Export as CSV or as a PDF with the list of days. Rates per year with source and date; a year without stored rates is not guessed. No guarantee, not tax advice.
 - **Office quota** – shows how many office days you still need this month.
 - **Packages** – assign your time to projects and booking numbers, with one click from the Today page. A package still active at the end of the day can continue on the next working day. Azure DevOps tickets can be linked (read-only).
 - **Reminders** – a notification when your daily target is reached, and a prompt to end a break.
 - **Menu bar** – status and controls are always one click away.
 - **Desktop widget** – a small avatar shows your running working time, with its own figure for each design: a flower in Comic, a rocket in Retro Future. Hover over it to pause, resume or start a package, double-click to open the app. It stays in the foreground or sits behind all windows, as you like, and remembers where you put it. If it takes up too much room, dock it to the right edge of the screen: there it shrinks to a small figure with a ring that fills up to your daily target. Hover over it and the full widget slides out; drag it up or down along the edge. A button in the widget switches between both. It never shows up in screen sharing or recordings. Now and then the figure says something in a speech bubble – sayings, real quotes on work with their source, or sayings of your own. In Classic it is a stamp with glasses and a clipboard.
-- **AI tools (MCP)** – optionally let an AI tool on your Mac, such as Claude or Cursor, operate the app: say "I started at 3 today", "my break was only 30 minutes" or "enter vacation from Monday to Friday", or ask how many office days you still need. It can also switch the desktop widget on or off, dock it to the screen edge or move it there, and pick or create the work package you are working on; with an Azure DevOps ticket the booking number is filled in from the ticket. Off by default.
+- **AI tools (MCP)** – optionally let an AI tool on your Mac, such as Claude or Cursor, operate the app: say "I started at 3 today", "my break was only 30 minutes" or "enter vacation from Monday to Friday", or ask how many office days you still need or what to enter for home office and commuting in your tax return. It can also switch the desktop widget on or off, dock it to the screen edge or move it there, and pick or create the work package you are working on; with an Azure DevOps ticket the booking number is filled in from the ticket. Off by default.
 - **Five designs, plus your own** – Glass, Flat, Comic, Retro Future and Classic, which uses only gray and blue and has no rounded corners. Can't decide? Switch on "Surprise me" and the app picks a random design every morning when you start work. An AI tool can also create custom designs with your colors, font and rounded corners, and add your own background, logo, card pictures, Dock icon and icons; they then appear in the settings. A custom design can give the desktop widget a look of its own: colors, rounded corners, a picture of your own instead of the figure, a background picture and a bigger or smaller figure at the screen edge.
 - **Searchable settings** – type a word and only the matching settings remain, with the matches highlighted.
 - **Sources and licenses** – a card in the settings lists where weather, rain radar, timetables, places and news come from, with their licenses, and shows the license of the bundled software.
@@ -75,6 +76,10 @@ All data in these pictures is made up.
 
 ![Flat – On the go](shots/en-material3-14-transit.png)
 
+**Tax**
+
+![Flat – Tax](shots/en-material3-15-tax.png)
+
 **Food**
 
 ![Flat – Food](shots/en-material3-10-food.png)
@@ -119,6 +124,10 @@ All data in these pictures is made up.
 **On the go**
 
 ![Comic – On the go](shots/en-comic-14-transit.png)
+
+**Tax**
+
+![Comic – Tax](shots/en-comic-15-tax.png)
 
 **Food**
 
@@ -165,6 +174,10 @@ All data in these pictures is made up.
 
 ![Retro Future – On the go](shots/en-space-14-transit.png)
 
+**Tax**
+
+![Retro Future – Tax](shots/en-space-15-tax.png)
+
 **Food**
 
 ![Retro Future – Food](shots/en-space-10-food.png)
@@ -209,6 +222,10 @@ All data in these pictures is made up.
 **On the go**
 
 ![Classic – On the go](shots/en-erp-14-transit.png)
+
+**Tax**
+
+![Classic – Tax](shots/en-erp-15-tax.png)
 
 **Food**
 
@@ -260,12 +277,13 @@ The source code is not hosted here.
 - **Start, Pause, Stop** – oder für einen Tag einfach auf eigene Stunden umschalten. Beide Werte bleiben gespeichert, du kannst jederzeit zurück. Die Arbeitszeit zeigt die wirkliche Zeit: Abgezogen werden nur erfasste Pausen, der automatische Abzug nach Gesetz lässt sich in den Einstellungen einschalten. Ein Klick auf die Arbeitszeit zeigt, wie lange du heute noch arbeiten musst oder wie weit du über dem Soll bist; Heute, Menüleiste und Widget wechseln dabei gemeinsam.
 - **Kalender** – jeder Tag auf einen Blick: Homeoffice, Büro, Dienstreise, Urlaub, Krankheit und Feiertage. Ein Klick auf den Tag öffnet die Bearbeitung, Ziehen über mehrere Tage trägt Urlaub oder Dienstreise auf einmal ein. Auch halbe Tage gehen, zum Beispiel ein halber Urlaubstag.
 - **Monatsabrechnung** – Arbeitszeit, Soll, Überstundenkonto und Urlaubstage, mit CSV-Export.
+- **Steuer** – die Werte für die Anlage N eines Jahres, ohne im Kalender nachzuzählen: Homeoffice-Tage mit der Homeoffice-Pauschale (6 € je Tag, höchstens 210 Tage) und Bürotage mit der Entfernungspauschale. Die Entfernung zur Arbeit rechnet die App mit Apple Karten aus (kürzeste Straßenverbindung, volle Kilometer), du kannst sie überschreiben. Export als CSV oder als PDF mit Tagesliste. Sätze je Jahr mit Quelle und Stand; ein Jahr ohne hinterlegte Sätze wird nicht geschätzt. Angaben ohne Gewähr, keine Steuerberatung.
 - **Büro-Quote** – zeigt, wie viele Bürotage dir in diesem Monat noch fehlen.
 - **Pakete** – ordne deine Zeit Projekten und Buchungsnummern zu, mit einem Klick direkt auf der Heute-Seite. Ein Paket, das bei Feierabend noch aktiv ist, läuft auf Wunsch am nächsten Arbeitstag weiter. Azure-DevOps-Tickets lassen sich verknüpfen (nur lesend).
 - **Erinnerungen** – eine Mitteilung, wenn das Tagessoll geschafft ist, und eine Nachfrage, wenn die Pause zu Ende sein könnte.
 - **Menüleiste** – Status und Steuerung sind immer einen Klick entfernt.
 - **Desktop-Widget** – ein kleiner Avatar zeigt die laufende Arbeitszeit, je Design eine eigene Figur: im Comic eine Blume, in Retro-Zukunft eine Rakete. Maus darüber zeigt Pause, Fortsetzen und deine Pakete zum Starten, Doppelklick öffnet die App. Es bleibt auf Wunsch im Vordergrund oder liegt hinter allen Fenstern und merkt sich seinen Platz. Braucht es zu viel Platz, dockt es am rechten Bildschirmrand an: Dort ist es eine kleine Figur mit einem Ring, der sich bis zum Tagessoll füllt. Maus darüber klappt das ganze Widget heraus, Ziehen verschiebt es am Rand hoch und runter. Ein Knopf im Widget wechselt zwischen beidem. In Bildschirmfreigaben und Aufnahmen erscheint es nicht. Ab und zu sagt die Figur etwas in einer Sprechblase – Sprüche, echte Zitate zur Arbeit mit Quelle oder eigene Sprüche. In Klassik ist sie ein Stempel mit Brille und Klemmbrett.
-- **KI-Tools (MCP)** – auf Wunsch bedient ein KI-Tool auf deinem Mac, zum Beispiel Claude oder Cursor, die App: Sag „Ich habe heute um 3 angefangen“, „Meine Pause war nur 30 Minuten“ oder „Trag mir von Montag bis Freitag Urlaub ein“, oder frag, wie viele Bürotage dir noch fehlen. Es kann auch das Desktop-Widget ein- und ausschalten, an den Bildschirmrand setzen oder dort verschieben und das Arbeitspaket auswählen oder anlegen, an dem du gerade arbeitest; bei einem Azure-DevOps-Ticket kommt die Buchungsnummer aus dem Ticket. Standardmäßig aus.
+- **KI-Tools (MCP)** – auf Wunsch bedient ein KI-Tool auf deinem Mac, zum Beispiel Claude oder Cursor, die App: Sag „Ich habe heute um 3 angefangen“, „Meine Pause war nur 30 Minuten“ oder „Trag mir von Montag bis Freitag Urlaub ein“, oder frag, wie viele Bürotage dir noch fehlen oder was du für Homeoffice und Fahrten in die Steuererklärung einträgst. Es kann auch das Desktop-Widget ein- und ausschalten, an den Bildschirmrand setzen oder dort verschieben und das Arbeitspaket auswählen oder anlegen, an dem du gerade arbeitest; bei einem Azure-DevOps-Ticket kommt die Buchungsnummer aus dem Ticket. Standardmäßig aus.
 - **Fünf Designs und eigene** – Glas, Flächig, Comic, Retro-Zukunft und Klassik, das nur Grau und Blau kennt und keine Rundungen hat. Kannst du dich nicht entscheiden? Mit „Überrasch mich“ wählt die App jeden Morgen zum Arbeitsbeginn ein zufälliges Design. Ein KI-Tool kann außerdem eigene Designs mit deinen Farben, deiner Schrift und deinen Rundungen anlegen und ihnen eigene Hintergründe, ein Logo, Kartenbilder, ein Dock-Symbol und Icons geben; sie stehen dann in den Einstellungen. Ein eigenes Design kann auch dem Desktop-Widget eine eigene Optik geben: Farben, Rundungen, ein eigenes Bild statt der Figur, ein Hintergrundbild und eine größere oder kleinere Figur am Bildschirmrand.
 - **Durchsuchbare Einstellungen** – ein Wort eintippen, und nur die passenden Einstellungen bleiben stehen, die Treffer sind markiert.
 - **Quellen und Lizenzen** – eine Karte in den Einstellungen nennt, woher Wetter, Regenradar, Fahrplan, Lokale und Nachrichten kommen, mit ihren Lizenzen, und zeigt die Lizenz der mitgelieferten Software.
@@ -320,6 +338,10 @@ Alle Daten auf den Bildern sind erfunden.
 
 ![Flächig – Unterwegs](shots/de-material3-14-transit.png)
 
+**Steuer**
+
+![Flächig – Steuer](shots/de-material3-15-tax.png)
+
 **Essen**
 
 ![Flächig – Essen](shots/de-material3-10-food.png)
@@ -364,6 +386,10 @@ Alle Daten auf den Bildern sind erfunden.
 **Unterwegs**
 
 ![Comic – Unterwegs](shots/de-comic-14-transit.png)
+
+**Steuer**
+
+![Comic – Steuer](shots/de-comic-15-tax.png)
 
 **Essen**
 
@@ -410,6 +436,10 @@ Alle Daten auf den Bildern sind erfunden.
 
 ![Retro-Zukunft – Unterwegs](shots/de-space-14-transit.png)
 
+**Steuer**
+
+![Retro-Zukunft – Steuer](shots/de-space-15-tax.png)
+
 **Essen**
 
 ![Retro-Zukunft – Essen](shots/de-space-10-food.png)
@@ -454,6 +484,10 @@ Alle Daten auf den Bildern sind erfunden.
 **Unterwegs**
 
 ![Klassik – Unterwegs](shots/de-erp-14-transit.png)
+
+**Steuer**
+
+![Klassik – Steuer](shots/de-erp-15-tax.png)
 
 **Essen**
 
